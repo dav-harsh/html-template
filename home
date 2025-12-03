@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>testing</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    
+
+    <!-- navbar -->
+    <div class="ghi">
+        <img class="il" src="logo-red.svg" alt="">
+        <div class="p"> 
+      <select class="i" name="mySelection">
+            <option value="option1">Home map</option>
+            <option value="option2">Home</option>
+            <option value="option3">Home image</option>
+            <option value="option4">Home video</option>
+            <option value="option5">Home slider</option>
+        </select>
+
+        <select class="ii" name="mySelection">
+            <option value="option1">List</option>
+            <option value="option2">Listing map</option>
+            <option value="option3">Agencies view</option>
+            <option value="option4">Agent view</option>
+            <option value="option5">Listing map</option>
+        </select>
+
+        <select class="iii" name="mySelection">
+            <option value="option1">Property</option>
+            <option value="option2">property 1</option>
+            <option value="option3">Property2</option>
+            <option value="option4">Property 3</option>
+            <option value="option5">Property 4</option>
+        </select>
+     <select class="iv" name="mySelection">
+            <option value="option1">Login</option>
+            <option value="option2">List</option>
+            <option value="option3">Shop</option>
+            <option value="option4">About us</option>
+            <option value="option5">Register</option>
+        </select>
+
+        <p class="c">Contact</p>
+        
+        </div>
+     <button class="al">Add listing🏠</button>
+                    
+    
+    <!-- background image section -->
+    </div>
+        <div class="fm">
+            <h1 class="ff">find your dream house</h1>
+            <p class="fp">we have over million properties for you</p>
+            <main class="sm">
+                <button class="frb">For Sale</button>
+                <button class="fwb">For Rent</button>
+            </main>
+    
+            <!-- flex section -->
+
+        </div>
+         <main class="fy">
+            <h1 class="pp">Popular places</h1>
+            <p class="pimpp">Properties in the most popular places</p>
+
+           
+            <main class="grid">
+                
+                <div class="new">
+                    <img class="fi" src="one.jpg" alt="">
+                    <p class="n">Houston<br><span class="fs">203 properties</span></p>
+                </div>
+
+                <div class="los">
+                    <img class="si" src="two.jpg" alt="">
+                    <p class="l">Orlando <br><span class="sc">254 properties</span></p>
+
+                </div>
+                
+                <div class="san">
+                    <img class="ti" src="three.jpg" alt="">
+                    <p class="a">Atalanta <br><span class="ts">409 Properties</span></p>
+
+                </div>
+
+                <div class="ata">
+                    <img class="chi" src="four.jpg " alt="">
+                    <p class="ch">Chicago <br><span class="q">112 Properties</span></p>
+
+                </div>
+
+              
+            
+            </main>
+              <main class="ma">
+
+                    <div class="mia">
+                        <img class="m" src="five.jpg" alt="">
+                        <p class="ne">New York <br><span class="fss">103 Properties</span></p>
+
+                    </div>
+
+                    <div class="chii">
+                        <img class="x" src="six.jpg" alt="">
+                        <p class="cc">LosAngeles <br><span class="ss">307 Properties</span></p>
+
+                    </div>
+                    <div class="hou">
+                        <img class="e" src="seven.jpg" alt="">
+                        <p class="ve">San Francisco<br><span class="ssp">409 Properties</span></p>
+
+                    </div>
+                    <div class="orl">
+                        <img class="eng" src="eight.jpg" alt="">
+                        <p class="eo">Miami <br><span class="es">145 Properties</span></p>
+
+                    </div>
+            
+                </main>
+           
+
+        </main>
+        <main class="second-holdingmain">
+              <div class="featureddiv">   <p class="h1c">Featured <span class="ms1">Properties</span></p>
+                  <p class="de">These are our featured properties</p></div>
+                   
+            
+            <main class="hooligan">
+
+                
+          
+           
+            <div class="first-flex">
+                <div class="first-subdiv">
+                    <div class="first-img"><img class="first-imgg" src="secondone.jpg" alt="">
+                    </div>
+                    <div class="first-text"><h2 class="real">Real Luxury Family House</h2>
+                    <p class="pop">6 bedroom and 3 toilet</p>
+                    <h1 class="dollar">$150</h1>
+                    </div>
+                </div>
+
+            </div>
+            <div class="second-subdiv">
+                <div class="second-image"><img class="second-imagee" src="second2.jpg" alt=""></div>
+
+            </div>
+            <div class="first-textt"><h2 class="real">Real Luxury Family House</h2>
+                    <p class="pop">6 bedroom and 3 toilet</p>
+                    <h1 class="dollar">$150</h1>
+                    </div>
+
+
+            </main>
+          
+            <main class="spiricoco">
+                 <div class="second-flex">
+                <div class="ssc-subdiv">
+                    <div class="second-img"><img class="second-imgg" src="second3.jpg" alt="">
+                    </div>
+                    <div class="second-text"><h2 class="reall">Real Luxury Family House</h2>
+                    <p class="popp">6 bedroom and 3 toilet</p>
+                    <h1 class="dollarr">$150</h1>
+                    </div>
+                </div>
+
+            </div>
+            <div class="third-subdiv">
+                <div class="third-image"><img class="third-imagee" src="second4.jpg" alt=""></div>
+                 <div class="third-textt"><h2 class="real">Real Luxury Family House</h2>
+                    <p class="poppp">6 bedroom and 3 toilet</p>
+                    <h1 class="dollar">$150</h1>
+                    </div>
+            </div>
+           
+
+
+
+            </main>
+
+            <main class="last">
+                 <div class="second-flex">
+                <div class="ssc-subdiv">
+                    <div class="second-img"><img class="second-imgg" src="second5.jpg" alt="">
+                    </div>
+                    <div class="second-text"><h2 class="reall">Real Luxury Family House</h2>
+                    <p class="popp">6 bedroom and 3 toilet</p>
+                    <h1 class="dollarr">$150</h1>
+                    </div>
+                </div>
+
+            </div>
+            <div class="third-subdiv">
+                <div class="third-image"><img class="third-imagee" src="second6.jpg" alt=""></div>
+                 <div class="third-textt"><h2 class="real">Real Luxury Family House</h2>
+                    <p class="poppp">6 bedroom and 3 toilet</p>
+                    <h1 class="dollar">$150</h1>
+                    </div>
+
+
+            </main>
+            <button class="view-more">view more <span class="spanbig">➡️</span></button>
+            
+        </main>
+        <div class="fresh">
+
+                 <div class="featureddiv">   <p class="h1c">Why <span class="ms1">Choose us</span></p>
+                  <p class="de">We provide full service at every step</p></div>
+                    <div class="wide">
+                        <div class="she">
+                            <img class="is" src="icon-4.svg" alt="">
+                            <p class="wr">Wide range of properties</p>
+                            <p class="lorem">
+                                Lorem ipsum dolor, sit amet consectetur <br> pro adipisicing consectetur debit <br>adipisicing lacus consectetur Business Directory.
+                            </p>
+
+                        </div>
+                        <div class="she">
+                            <img class="icon-5" src="icon-5.svg" alt="">
+                            <p class="wr">Wide range of properties</p>
+                            <p class="lorem">
+                                Lorem ipsum dolor, sit amet consectetur <br> pro adipisicing consectetur debit <br>adipisicing lacus consectetur Business Directory.
+                            </p>
+
+                        </div>
+
+                        <div class="she">
+                            <img class="icon-6" src="icon-6.svg" alt="">
+                            <p class="wr">Wide range of properties</p>
+                            <p class="lorem">
+                                Lorem ipsum dolor, sit amet consectetur <br> pro adipisicing consectetur debit <br>adipisicing lacus consectetur Business Directory.
+                            </p>
+ 
+                        </div>
+
+                        <div class="she">
+                            <img class="icon-15" src="icon-15.svg" alt="">
+                            <p class="wr">Wide range of properties</p>
+                            <p class="lorem">
+                                Lorem ipsum dolor, sit amet consectetur <br> pro adipisicing consectetur debit <br>adipisicing lacus consectetur Business Directory.
+                            </p>
+ 
+                        </div>
+
+                    </div>
+
+        </div>
+
+        <main class="discovery">
+            <h1 class="discover">Discover Popular Properties</h1>
+            <p class="full-service">We provide full service at every step</p>
+
+            <div class="div-div">
+
+                <div class="first">
+                    <img class="sss" src="secondone.jpg" alt="">
+                    <p class="ppp"><span class="fsss">Real House Luxury Villa</span><br>est st,77-central park south,nyc <br><br>6 bedroom    3 bathroom <br><br><span class="o">$150,000</span></p>
+                </div>
+                <div class="first">
+                    <img class="sss" src="second2.jpg" alt="">
+                    <p class="ppp"><span class="fsss">Real House Luxury Villa</span><br>est st,77-central park south,nyc <br><br>6 bedroom    3 bathroom <br><br><span class="o">$150,000</span></p>
+                </div>
+                <div class="first">
+                    <img class="sss" src="second3.jpg" alt="">
+                    <p class="ppp"><span class="fsss">Real House Luxury Villa</span><br>est st,77-central park south,nyc <br><br>6 bedroom    3 bathroom <br><br><span class="o">$150,000</span></p>
+                </div>
+                <div class="first">
+                    <img class="sss" src="second4.jpg" alt="">
+                    <p class="ppp"><span class="fsss">Real House Luxury Villa</span><br>est st,77-central park south,nyc <br><br>6 bedroom    3 bathroom <br><br><span class="o">$150,000</span></p>
+                </div>
+
+            </div>
+            <p class="font">◉ ◉ ◉ ◉</p>
+
+        </main>
+
+        <h1 class="moa">Meet Our <span class="asc">Agent</span></h1>
+        <p class="oaa">Our Agents are here to help you</p>
+
+
+        <div class="money">
+
+            <div class="mw">
+                <img class="stuv" src="ff1.jpg" alt="">
+                <h1 class="fh2">Carl Jones</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+            <div class="mw">
+                <img class="stuv" src="ff2.jpg" alt="">
+                <h1 class="fh2">Arling Tracy</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+            <div class="mw">
+                <img class="stuv" src="ff3.jpg" alt="">
+                <h1 class="fh2">Mark Web</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+            <div class="mw">
+                <img class="stuv" src="ff4.jpg" alt="">
+                <h1 class="fh2">Katy Grace</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+            <div class="mw">
+                <img class="stuv" src="ff5.jpg" alt="">
+                <h1 class="fh2">Chris Melo</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+            <div class="mw">
+                <img class="stuv" src="ff6.jpg" alt="">
+                <h1 class="fh2">Nina Thomas</h1>
+                <p class="ded">Real Estate Agent</p>
+
+            </div>
+
+
+        </div>
+
+        <main class="ct">
+            <h1 class="client">Client <span class="asd">Testimonials</span></h1>
+            <p class="report">We collect reviews from our customers</p>
+            <div class="secu">
+
+                 <div class="ipsum">
+                    
+                    <p class="dolor">
+                        Lorem ipsum, dolor sit amet consectetur <br>adipisicing elit. Voluptatem, atque provident exercita <br>tionem error est magnam hic eveniet iusto explicabo <br> ipsum dolorum rerum officia. Id quis.
+                    </p>
+                    <div class="small-flex">
+                        <img class="lss" src="ls.jpg" alt="">
+                        <p class="small-h1">
+                            Lisa Smith <br>
+                            <span class="lisa-span">New York</span>
+
+                        </p>
+                    
+                    </div>
+
+                </div>
+                <div class="ipsum">
+                    
+                    <p class="dolor">
+                        Lorem ipsum, dolor sit amet consectetur <br>adipisicing elit. Voluptatem, atque provident exercita <br>tionem error est magnam hic eveniet iusto explicabo <br> ipsum dolorum rerum officia. Id quis.
+                    </p>
+                    <div class="small-flex">
+                        <img class="lss" src="jm.jpg" alt="">
+                        <p class="small-h1">
+                            Jhon Morris <br>
+                            <span class="lisa-span">Los Angeles</span>
+
+                        </p>
+                    
+                    </div>
+
+                </div>
+
+                <div class="ipsum">
+                    
+                    <p class="dolor">
+                        Lorem ipsum, dolor sit amet consectetur <br>adipisicing elit. Voluptatem, atque provident exercita <br>tionem error est magnam hic eveniet iusto explicabo <br> ipsum dolorum rerum officia. Id quis.
+                    </p>
+                    <div class="small-flex">
+                        <img class="lss" src="md.jpg" alt="">
+                        <p class="small-h1">
+                            Mary Deshaw <br>
+                            <span class="lisa-span">Chicago</span>
+
+                        </p>
+                    
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+           
+
+        </main>
+
+        <h1 class="op">Our Partners</h1>
+        <p class="tct">The company that represent us</p>
+
+        <div class="third">
+
+            <img src="f1.jpg" alt="">
+            <img src="f2.jpg" alt="">
+            <img src="f3.jpg" alt="">
+            <img src="f4.jpg" alt="">
+            <img src="f5.jpg" alt="">
+            <img src="f6.jpg" alt="">
+            <img src="f7.jpg" alt="">
+
+
+        </div>
+
+
+        <main class="sub-main">
+
+             <main class="last-main">
+
+            <div class="first-last">
+                <img class="last-image" src="uiux.svg" alt="">
+                <p class="last-lorem">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Earum, sunt voluptatem <br> eligendi et magnam tempora quo nulla odio <br> iusto laboriosam quisquam accusantium! Doloribus. <br><br>95 South Park Avenue <br><br>📞 +456 875 369 208 <br><br>✉️support@findhouse.com</p>
+
+            </div>
+
+            <div class="navigation">
+                
+                <h1 class="last-navigation">
+                    Navigation
+                    <hr class="ddd">
+                </h1>
+                <div class="fff">
+                    <div class="kkk">
+
+                        <p class="homed">Home one</p><br>
+                        <p class="agentd">Agent Details</p><br>
+                        <p class="pr">Properties Right</p><br>
+                        <p class="au">About us</p><br>
+                        <p class="bd">Blog default</p><br>
+                    </div>
+                    <div>
+                        <p>properties list</p><br>
+                        <p>Blog details </p><br>
+                        <p>Agent listing</p><br>
+                        <p>Property detail</p><br>
+                        <p class="cu">Contact Us</p>
+
+                    </div>
+
+
+                </div>
+                
+            
+            </div>
+
+            <main class="twitter"> 
+                <h1 class="tf">
+                Twitter feeds
+                <hr>
+            </h1> <br><br>
+
+            <p>Find house all share them with me baby<br> said inspect <br><h3>About 5 days ago</h3></p><br>
+            <p>Find house all share them with me baby<br> said inspect <h3>About 5 days ago</h3></p><br>
+            <p>Find house all share them with me baby<br> said inspect <br><h3>about 5 days ago</h3></p><br>
+            </main>
+             <main class="news-letter">
+            <h1 class="news">News letter <hr></h1>
+            <p class="ffd">sign up for our newsletter to get latest <br><br> updates and offers.subscribe to recieve news  <br><br> in your inbox.</p>
+            <div class="g">
+
+                <div class="input">
+                
+                <input class="finput" placeholder="Enter Your E-mail" type="email">
+            </div>
+            <div>
+                <button class="red">Subscribe</button>
+            </div>
+                
+            </div>
+
+
+
+            
+
+        </main>
+
+
+        </main>
+        <hr>
+        <div class="dddd"> 
+            
+            <div class="e">
+                
+                
+                <p class="copy">2025 Copy right-all right reserved</p>
+            </div>
+            <div class="ee">built by david <br><br>written with Html and Css</div>
+
+       
+    </div>
+      
+        
+
+    </main>
+       
+
+</body>
+
+
+
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+
+body{
+     /* background-color: rgba(0, 0, 0, 0.603); */
+    -webkit-text-size-adjust: 100%; 
+    max-width: 2000px;
+    min-width: 420px;
+}
+
+
+    @media (max-width: 600px)and(min-width: 250px)
+{
+
+
+
+}
+
+
+    
+@media (max-width: 420px) {
+    
+}
+
+
+@media (min-width: 240px) and (max-width: 420px) and (min-height: 401px), (min-width: 421px) and (min-height: 240px) and (max-height: 520px), (orientation: portrait){
+    
+}
+
+
+.ii{
+    width: 5rem;
+    margin-left: 20px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 5rem;
+}
+
+
+.p{
+    display: flex;
+    
+}
+
+
+.ghi{
+    background-color: black;
+    position: fixed; 
+}
+
+
+.ghi{
+    display: flex;
+    width: 100%;
+}
+
+
+.il{
+    width: 7rem;
+    height: 7rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    max-width: 100%;
+    margin-left: 2rem;
+}
+
+
+.i{
+    
+    background-color: rgba(0, 0, 0, 0);
+    color: wheat;
+    padding-top: 0%;
+    border: none;
+    font-size: 1.5rem;
+    padding-inline: none;
+}
+
+
+.i:hover{
+    background-color: rgb(73, 71, 71);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+.ii{
+        background-color: rgba(0, 0, 0, 0);
+    color: wheat;
+    padding-top: 0%;
+    border: none;
+    font-size: 1.5rem;
+    margin-right: 3rem;
+}
+.ii:hover{
+    background-color: rgb(73, 71, 71);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+     padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+.iii{
+        background-color: rgba(0, 0, 0, 0);
+    color: wheat;
+    padding-top: 0%;
+    border: none;
+    font-size: 1.5rem;
+    margin-right: 3rem;
+}
+.iii:hover{
+    background-color: rgb(73, 71, 71);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+     padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+.iv{
+        background-color: rgba(0, 0, 0, 0);
+    color: wheat;
+    padding-top: 0%;
+    border: none;
+    font-size: 1.5rem;
+    margin-right: 3rem;
+}
+.iv:hover{
+    background-color: rgb(73, 71, 71);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+     padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+.c{
+        color: wheat;
+    padding-top: 0%;
+    border: none;
+    font-size: 1.7rem;
+    padding-top: 0.5rem;
+    margin-top: 2.8rem;
+}
+.al{
+    background-color: rgb(243, 19, 56);
+    border: none;
+    margin-left: 15rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
+.al:hover{
+    background-color: white;
+    color: red;
+    transition: 1s;
+}
+.fm{
+    background-image: url(570422411.jpg);
+    text-align: center;
+    
+    
+}
+.ff{
+    color: rgb(255, 255, 255);
+    padding-top: 20rem;
+    /* padding-left: 37%; */
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.fp{
+    /* padding-left: 37%; */
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    margin-bottom: 3rem;
+}
+.sm{
+    padding-bottom: 2rem;
+}
+.frb{
+    padding-left: 0.7rem;
+    font-size: 1.2rem;
+    padding-top: 0.7rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.7rem;
+    color: white;
+    font-family: sans-serif;
+     background-color: rgb(243, 19, 56);
+     border: none;
+     border-radius: 0.5rem;
+     margin-right: 1rem;
+     /* margin-left: 39%; */
+}
+.fwb{
+     border: none;
+     border-radius: 0.5rem;
+        padding-left: 0.7rem;
+    font-size: 1.2rem;
+    padding-top: 0.7rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.7rem;
+    color: white;
+    font-family: sans-serif;
+    background-color: white;
+    color: black;
+    /* margin-left: 1rem; */
+}
+.fwb:hover{
+    color: white;
+    background-color: rgb(243, 19, 56);
+}
+.fy{
+    background-color: white;
+    padding-top: 5rem;
+}
+.pp{
+    margin-left: 43%;
+    margin-bottom: 1rem;
+}
+.pimpp{
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.781);
+    margin-left: 42%;
+    margin-bottom: 3rem;
+    margin-top: 0.5rem;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+.new{
+      background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+          border: transparent,rgba(0, 0, 0, 0.61),2rem;
+}
+.fi{
+    width: 13rem;
+    height: 10rem;   
+}
+.n{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.fs{
+    color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+
+}
+.los{
+      background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+}
+.si{
+    width: 13rem;
+    height: 10rem; 
+}
+.l{
+     margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.sc{
+        color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.ti{
+    width: 13rem;
+    height: 10rem; 
+}
+.a{
+     margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.san{
+      background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+}
+.ts{
+     color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.chi{
+    width: 13rem;
+    height: 10rem; 
+   
+}
+.ch{
+         margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.q{
+         color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.ata{
+    background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+}
+.mia{
+    background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+      margin-right: 9.5rem;
+}
+.ma{
+    margin-top: 1rem;
+    display: flex;
+    
+    
+}
+.m{
+      width: 13rem;
+    height: 10rem;
+    
+}
+.ne{
+        margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.fss{
+       color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.chii{
+    background-color: rgba(32, 31, 31, 0);
+      /* margin-left: 1rem; */
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+      /* margin-right: 2rem; */
+      margin-right: 8rem;
+}
+.x{
+    width: 13rem;
+    height: 10rem;
+}
+.cc{
+            margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.ss{
+      color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.hou{
+    background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+      margin-right: 8.5rem;
+      
+}
+.e{
+     width: 13rem;
+    height: 10rem;
+}
+.ve{
+                margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.ssp{
+       color: rgba(0, 0, 0, 0.651);
+    font-size: 1.05rem;
+}
+.eng{
+    width: 13rem;
+    height: 10rem;
+}
+.orl{
+    
+    background-color: rgba(32, 31, 31, 0);
+      margin-left: 1rem;
+      display: flex;
+      border: transparent,rgba(0, 0, 0, 0.61),2rem;
+      
+}
+.eo{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 1rem;
+    color: rgba(0, 0, 0, 0.836);
+    font-size: 1.2rem;
+}
+.second-holdingmain{
+    background-color: rgba(155, 155, 155, 0.438);
+    margin-bottom: 2rem;
+}
+.featureddiv{
+    /* background-color: rgba(0, 0, 0, 0.103); */
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.hooligan{
+    display: flex;
+}
+.h1c{
+    font-size: 3rem;
+    color: rgba(0, 0, 0, 0.692);
+    font-family: sans-serif;
+    padding-top: 5rem;
+    margin-bottom: 2rem;
+}
+.ms1{
+    color: black;
+    padding-bottom: 4rem;
+    margin-bottom: 4rem;
+}
+.de{
+    font-size: x-large;
+    color: rgba(0, 0, 0, 0.664);
+}
+.first-flex{
+    display: flex;
+    margin-top: 2rem;
+}
+.first-subdiv{
+    display: flex;
+}
+.first-imgg{
+    width: 30rem;
+    height: 25rem;
+    margin-left: 2rem;
+}
+.real{
+    color: rgba(0, 0, 0, 0.712);
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+.pop{
+    color: rgba(0, 0, 0, 0.438);
+    margin-bottom: 1rem;
+}
+.spiricoco{
+    display: flex;
+}
+.first-text{
+    margin-left: 2rem;
+}
+.second-subdiv{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+}
+.second-imagee{
+    width: 30rem;
+    height: 25rem;
+    margin-left: 1rem;
+}
+.first-textt{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.second-flex{
+    display: flex;
+    margin-top: 1rem;
+}
+.ssc-subdiv{
+    display: flex;
+}
+.second-imgg{
+     width: 30rem;
+    height: 25rem;
+    margin-left: 2rem;
+}
+.second-text{
+    margin-left: 2rem;
+}
+.reall{
+    color: rgba(0, 0, 0, 0.712);
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+.popp{
+    color: rgba(0, 0, 0, 0.438);
+    margin-bottom: 1rem;
+}
+.third-subdiv{
+    display: flex;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+}
+.third-imagee{
+    width: 30rem;
+    height: 25rem;
+    margin-left: 2rem;
+}
+.third-textt{
+    margin-left: 2rem;
+}
+.poppp{
+    color: rgba(0, 0, 0, 0.438);
+    margin-bottom: 1rem;
+}
+.last{
+    display: flex;
+}
+.view-more{
+    background-color: rgb(243, 33, 68);
+    margin-left: 47%;
+    border: none;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-right: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 5rem;
+}
+.view-more:hover{
+    background-color: rgba(0, 0, 0, 0.726);
+    margin-left: 47%;
+    border: none;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-right: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: white;
+    transition: 0.5s;
+}
+.spanbig{
+    color: rgb(243, 33, 68);
+}
+.spanbig:hover{
+    padding-left: 0.5rem;
+    transition: 0.5s;
+}
+.wide{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+.sh{
+    background-color: rgba(245, 245, 245, 0);
+}
+.fh{
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    margin-left: 5rem;
+}
+.she{
+    margin-left: 1rem;
+    background-color: rgba(0, 0, 0, 0.075);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.wr{
+    color: rgba(0, 0, 0, 0.932);
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+.lorem{
+    font-size: 1.3rem;
+    color: rgba(0, 0, 0, 0.829);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.icon-5{
+    width: 10rem;
+    height: 7rem;
+    margin-left: 7rem;
+}
+.is{
+    width: 10rem;
+    height: 7rem;
+    margin-left: 7rem;
+}
+.icon-6{
+    width: 10rem;
+    height: 7rem;
+    margin-left: 7rem;
+}
+.icon-15{
+    width: 10rem;
+    height: 7rem;
+    margin-left: 7rem;
+}
+.discovery{
+    background-color: rgb(243, 33, 68);
+    color: whitesmoke;
+}
+.discover{
+    margin-left: 40%;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    margin-top: 5rem;
+}
+.full-service{
+    margin-left: 41%;
+    font-size: 1.5rem;
+}
+.div-div{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-right: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 3rem;
+}
+.first{
+    background-color: white;
+    color: black;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    margin-top: 3rem;
+}
+.sss{
+    width: 20rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+.o{
+    /* margin-left: 1rem; */
+    font-size: 2rem;
+}
+.ppp{
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    color: rgba(0, 0, 0, 0.829);
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.font{
+    font-size: 2rem;
+    margin-left: 47%;
+    padding-bottom: 3rem;
+}
+.moa{
+    margin-left: 40%;
+    color: rgba(0, 0, 0, 0.829);
+    font-size: 2.5rem;
+    font-family: sans-serif;
+    margin-top: 5rem;
+}
+.asc{
+    font-size: 2.2rem;
+    font-family: sans-serif;
+    color: black;
+}
+.oaa{
+    color: rgba(0, 0, 0, 0.829);
+    margin-left: 40%;
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
+.money{
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;
+    margin-bottom: 7rem;
+}
+.mw{
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.fh2{
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stuv{
+    width: 15rem;
+}
+.ded{
+    color: rgba(0, 0, 0, 0.829);
+    font-size: 1.5rem;
+    margin-left: 2.5rem;
+}
+.ct{
+    background-color: whitesmoke;
+}
+.client{
+    padding-top: 3rem;
+    margin-left: 42%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    color: rgba(0, 0, 0, 0.829);
+    padding-bottom: 2rem;
+}
+.asd{
+    color: black;  
+}
+.report{
+    color: rgba(0, 0, 0, 0.829);
+    margin-left: 43rem;
+    font-size: 1.5rem;
+}
+.ipsum{
+    background-color: rgb(255, 255, 255);
+    margin-left: 2rem;
+
+}
+.secu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5rem;
+    padding-bottom: 4rem;
+}
+.dolor{
+    font-size: 1.4rem;
+    padding-top: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.lss{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 2.5rem;
+    border: solid rgb(240, 70, 98) 0.4rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.small-flex{
+    display: flex;
+    margin-bottom: 5rem;
+}
+.small-h1{
+    margin-top: 4.5rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+}
+.lisa-span{
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.829);
+}
+
+.op{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    margin-left: 40%;
+    color: black;
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+.tct{
+    color: rgba(0, 0, 0, 0.829);
+    font-size: 1.5rem;
+    margin-left: 39.5%;
+}
+.third{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.last-main{
+    background-color: rgba(4, 1, 31, 0.774);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-bottom: 7rem;
+}
+
+.last-image{
+    /* padding-bottom: 2rem; */
+    padding-top: 3rem;
+    width: 14rem;
+    height: 10rem;
+}
+.first-last{
+    padding-left: 2rem;
+}
+.last-lorem{
+    font-size: 1.2rem;
+}
+.last-navigation{
+    padding-top: 7rem;
+    text-align: center;
+}
+.fff{
+    font-size: 1.2rem;
+    padding-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.fff:hover{
+    color: rgb(247, 37, 72);
+    transition: 1s;
+}
+.ddd{
+    color: red;
+    background-color: red;
+}
+.tf{
+    padding-top: 7rem;
+}
+.news{
+    padding-top: 6.8rem;
+    padding-right: 2rem;
+    text-align: center;
+}
+.news-letter{
+    margin-right: 2rem;
+}
+.ffd{
+    margin-top: 2rem;
+    font-size: 1.4rem;
+}
+.finput{
+    font-size: 1.5rem;
+    width: 15rem;
+    background-color: rgba(0, 0, 0, 0.308);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: whitesmoke;
+    border: none;
+}
+.red{
+    background-color: rgb(247, 37, 72);
+    border: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: white;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+.g{
+    display: flex;
+    padding-top: 3rem;
+}
+.copy{
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.dddd{
+    background-color: rgba(4, 1, 31, 0.774);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3rem;
+}
+.ee{
+    color: whitesmoke;
+    font-size: 1.5rem;
+    padding-right: 2rem;
+}
+
+</html>
